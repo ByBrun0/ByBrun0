@@ -36,4 +36,4 @@ Atualmente, atuo no desenvolvimento de um **projeto de Chatbot** para a minha in
 ### 📫 Contato
 
 <a href = "mailto:bruno.pradosantos1910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bruno-prado-661324416/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bruno-prado-dos-santos661324416/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
